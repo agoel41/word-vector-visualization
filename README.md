@@ -12,4 +12,4 @@ Gensim word vector visualization of various word vectors
 - ***Gensim***: It isn't really a deep learning package. It's a package for word and text similarity modeling, which started with Latent Dirichlet Allocation (LDA-style) topic models and grew into SVD and neural word representations. But its efficient and scalable, and quite widely used. https://pypi.org/project/gensim/ 
 
 ### Project structure
-- ***word-vector-visualization.ipynb***: This notebook contains the visualization of the 100 dimensional word embeddings using PCA model.
+- ***word-vector-visualization.ipynb***: This notebook contains the visualization of the 100 dimensional word embeddings using Principal component analysis(PCA) model.
